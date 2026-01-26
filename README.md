@@ -1,7 +1,7 @@
 # Plantilla oficial del Proyecto Final  
 **Curso:** Proyectos reales de Ingeniería de Datos con Python  
-**Nivel:** Maestría (alto rigor técnico)  
-**Proveedor principal:** Google Cloud Platform (GCP)
+**Nivel:** Alto rigor técnico  
+**Proveedor principal:** Google Cloud Platform (GCP) o Amazon Web Services (AWS) o Microsoft Azure
 
 ---
 
