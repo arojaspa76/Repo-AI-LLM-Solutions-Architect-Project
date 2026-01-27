@@ -213,6 +213,7 @@ lint:
 - Arquitectura documentada
 - Datos en la nube
 - README técnico
+- Video de no mas de 30 minutos donde se evidencie el funcionamiento del proyecto
 
 ---
 
