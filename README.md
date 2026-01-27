@@ -226,7 +226,7 @@ lint:
 | Implementación ETL      | 20%  |
 | Almacenamiento en cloud | 15%  |
 | Automatización          | 10%  |
-| Calidad del código      | 5%   |
+| Calidad del código (validacion por 3 IAs)      | 5%   |
 
 ---
 ***Conceptual (30%).***  
