@@ -25,14 +25,16 @@ El estudiante implementa **una nube**, pero demuestra capacidad de razonamiento 
 
 El proyecto debe ser entregado según lo estructurado en la carpeta final-project-templape en cada uno de sus propios repositorios.
 
-final-project-template/
-  architecture/
-  data_contract/
-  infra/
-  src/
-  tests/
-  notebooks/
+```markdown
+final-project-template/  
+  architecture/  
+  data_contract/  
+  infra/  
+  src/  
+  tests/  
+  notebooks/  
   docs/
+```
 
 ---
 
