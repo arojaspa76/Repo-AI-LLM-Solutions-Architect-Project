@@ -20,9 +20,9 @@ El estudiante implementa **una nube**, pero demuestra capacidad de razonamiento 
 
 ## 2. Tabla de contenido
 
-- [1. 📖 Plantilla del proyecto](AI_LLM_Project_Template.md)
-- [2. 📐 Alcance minimo obligatorio](07_artefactos/01_alcance_minimo.md)
-- [3. 📁 Documentos obligatorios](07_artefactos/02_archivos_obligatorios.md)
+- [1. 📐 Alcance minimo obligatorio](07_artefactos/01_alcance_minimo.md)
+- [2. 📁 Documentos obligatorios](07_artefactos/02_archivos_obligatorios.md)
+- [3. 📖 Plantilla del proyecto](AI_LLM_Project_Template.md)
 - [4. 🔐 Plantilla .env.example](07_artefactos/env.example)
 - [5. 🛠️ Makefile para Estandarizar Ejecución](07_artefactos/Makefile)
 - [6. ⚙️ CI/CD Mínimo — GitHub Action](07_artefactos/ci.yml)
