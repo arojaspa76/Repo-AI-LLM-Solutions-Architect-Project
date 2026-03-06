@@ -225,8 +225,4 @@ Los siguientes ítems están **explícitamente fuera de alcance** para la entreg
 
 ---
 
-> **Nota para el instructor:** Este documento debe compartirse con los participantes en la Sesión 1 (S1) del Capítulo 1, junto con la Plantilla Oficial y la Rúbrica de Evaluación. Se recomienda revisarlo colectivamente durante la primera hora para alinear expectativas desde el inicio del proyecto.
-
----
-
 *Programa AI-LLM Solution Architect | Curso 5: Proyecto Final | v1.0*
