@@ -26,6 +26,8 @@ El estudiante implementa **una nube**, pero demuestra capacidad de razonamiento 
 - [4. 🔐 Plantilla .env.example](07_artefactos/env.example)
 - [5. 🛠️ Makefile para Estandarizar Ejecución](07_artefactos/Makefile)
 - [6. ⚙️ CI/CD Mínimo — GitHub Action](07_artefactos/ci.yml)
+- [7. 📊 Criterios de Evaluación — Proyecto Final AI/LLM](07_artefactos/03_criterios_evaluacion.md)
+- [8. 📦 Entregables Oficiales — Proyecto Final AI/LLM](07_artefactos/04_entregables.md)
 ---
 
 ## Información importante
